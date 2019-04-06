@@ -1,0 +1,15 @@
+{
+  "method": "none",
+  "protocol": "",
+  "protocol_param": "1",
+  "obfs": "",
+  "timeout": 300,
+  "speed_limit_per_con": 100,
+  "speed_limit_per_user": 100,
+  "dns_ipv6": false,
+  "verbose": false,
+  "connect_verbose_info": false,
+  "redirect": "",
+  "fast_open": false
+}
+
