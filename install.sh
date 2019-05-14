@@ -9,6 +9,7 @@ sudo pip --no-cache-dir install https://github.com/JBLeung/shadowsocksr/archive/
 ## get ssr resource for synology
 sudo wget https://raw.githubusercontent.com/JBLeung/synology-ssr/master/res/config.json;
 sudo wget https://raw.githubusercontent.com/JBLeung/synology-ssr/master/res/util.py;
+sudo wget https://raw.githubusercontent.com/JBLeung/synology-ssr/master/res/Makefile;
 ## replace update util for python crypto libraray
 sudo mv /usr/lib/python2.7/ctypes/util.py /usr/lib/python2.7/ctypes/bk_util.py;
 sudo mv ./util.py /usr/lib/python2.7/ctypes/util.py;
