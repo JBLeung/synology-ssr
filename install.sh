@@ -1,4 +1,5 @@
 ## create temp dir
+cd ~/;
 mkdir ssr;
 cd ssr;
 ## down pip
